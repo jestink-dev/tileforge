@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+
+# Database and data files
+data/
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Git
+.git/
+.gitignore
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+test/
+tests/
+*.test.js
+*.spec.js
+coverage/
+
+# Build artifacts
+dist/
+build/
+
+# Documentation source (keep README.md)
+docs/
+
+# Plan file
+PLAN.md
+
+# Development files
+.eslintrc*
+.prettierrc*
+tsconfig.json
