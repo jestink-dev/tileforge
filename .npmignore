@@ -42,6 +42,7 @@ build/
 
 # Documentation source (keep README.md)
 docs/
+RELEASING.md
 
 # Plan file
 PLAN.md
